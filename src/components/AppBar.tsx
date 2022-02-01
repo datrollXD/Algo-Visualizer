@@ -29,7 +29,7 @@ export default function AppBar (props: any) {
             item xs={6} md={2}
          >
             <Box component="h2" p={1} mt={2} ml={1}>
-               <a href="https://github.com/CodingForTheBetter"> Algo Visualizer </a>
+               <a href="https://searchalgorithms.netlify.app/#/"> Algo Visualizer </a>
             </Box>
          </Grid>
 
